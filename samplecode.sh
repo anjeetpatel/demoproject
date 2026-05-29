@@ -1,1 +1,1 @@
-hii this is a sample code file
+echo "this is a sample code file"
